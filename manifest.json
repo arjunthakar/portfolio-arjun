@@ -15,12 +15,6 @@
     "purpose":"any"
     },
     {
-    "src":"/assets/images/logo.svg",                     
-    "sizes":"185x185",
-    "type":"image/svg",
-    "purpose":"any"
-    },
-    {
     "src":"images/img-220x130.png",
     "sizes":"220x130",
     "type":"image/png",
