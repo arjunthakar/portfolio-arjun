@@ -15,9 +15,9 @@
     "purpose":"any"
     },
     {
-    "src":"images/download.png",                     
-    "sizes":"225x225",
-    "type":"image/png",
+    "src":"/assetsimages/logo.svg",                     
+    "sizes":"185x185",
+    "type":"image/svg",
     "purpose":"any"
     },
     {
