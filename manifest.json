@@ -15,8 +15,8 @@
     "purpose":"any"
     },
     {
-    "src":"images/download.png",                     
-    "sizes":"225x225",
+    "src":"assets/images/logo.ico",                     
+    "sizes":"256x256",
     "type":"image/png",
     "purpose":"any"
     },
