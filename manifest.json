@@ -9,22 +9,28 @@
     "description":"This is a PWA tutorial.",
     "icons":[
     {
-    "src":"images/img-173x130.jpeg",                     
-    "sizes":"173x130",
+    "src":"images/logo144.png",                     
+    "sizes":"144x144",
     "type":"image/png",
     "purpose":"any"
     },
     {
-    "src":"assets/images/logo.ico",                     
-    "sizes":"256x256",
+    "src":"images/logo70.png",                     
+    "sizes":"70x70",
     "type":"image/png",
     "purpose":"any"
     },
     {
-    "src":"images/img-220x130.png",
-    "sizes":"220x130",
+    "src":"images/logo225.png",                     
+    "sizes":"225x225",
     "type":"image/png",
     "purpose":"any"
-    }
+    },
+    {
+    "src":"images/logo512.png",                     
+    "sizes":"512x512",
+    "type":"image/png",
+    "purpose":"any"
+    },
   ]
 }
