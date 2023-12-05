@@ -32,5 +32,31 @@
     "type":"image/png",
     "purpose":"any"
     }
+  ],
+    "screenshots": [
+    {
+    "src":"images/logo144.png",                     
+    "sizes":"144x144",
+    "type":"image/png",
+    "form_factor": "wide"
+    },
+    {
+    "src":"images/logo70.png",                     
+    "sizes":"70x70",
+    "type":"image/png",
+    "form_factor": "wide"
+    },
+    {
+    "src":"images/logo225.png",                     
+    "sizes":"225x225",
+    "type":"image/png",
+    "form_factor": "wide"
+    },
+    {
+    "src":"images/logo512.png",                     
+    "sizes":"512x512",
+    "type":"image/png",
+    "form_factor": "wide"
+    }
   ]
 }
